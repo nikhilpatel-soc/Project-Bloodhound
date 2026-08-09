@@ -1,0 +1,18 @@
+# Bloodhound Configuration File
+
+# Root Log Directory
+root_directory = "/home/cryptlab/projects/Bloodhound/datasets/incident_1/bloodhound_dataset_01/logs"
+
+# Node Configuration
+nodes = ["node1", "node2", "node3", "node4"]
+node_logs = ["auth.log", "syslog"]
+
+[node_ips]
+node1 = "10.50.0.11"
+node2 = "10.50.0.12"
+node3 = "10.50.0.13"
+node4 = "10.50.0.14"
+
+# Sensor Configuration
+sensors = ["sensor"]
+sensor_logs = ["eve.json"]

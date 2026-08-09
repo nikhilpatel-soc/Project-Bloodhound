@@ -1,0 +1,51 @@
+2026-07-26T18:09:00+00:00 node1 sshd[2670]: Accepted publickey for admin from 10.50.0.100 port 47844 ssh2
+2026-07-26T18:09:02+00:00 node1 systemd-logind[402]: New session 57 of user admin.
+2026-07-26T18:11:00+00:00 node1 sshd[1404]: Accepted publickey for admin from 10.50.0.100 port 46707 ssh2
+2026-07-26T18:11:02+00:00 node1 systemd-logind[402]: New session 83 of user admin.
+2026-07-26T18:13:00+00:00 node1 sshd[5205]: Accepted publickey for admin from 10.50.0.100 port 31758 ssh2
+2026-07-26T18:13:02+00:00 node1 systemd-logind[402]: New session 89 of user admin.
+2026-07-26T18:14:00+00:00 node1 sshd[8441]: disconnected by user admin
+2026-07-26T18:14:03+00:00 node1 sshd[8421]: Failed password for svc_web from 198.51.100.45 port 49218 ssh2
+2026-07-26T18:14:06+00:00 node1 sshd[8421]: Failed password for svc_web from 198.51.100.45 port 49218 ssh2
+2026-07-26T18:14:09+00:00 node1 sshd[8421]: Failed password for svc_web from 198.51.100.45 port 49218 ssh2
+2026-07-26T18:14:12+00:00 node1 sshd[8421]: Failed password for svc_web from 198.51.100.45 port 49218 ssh2
+2026-07-26T18:14:15+00:00 node1 sshd[8421]: Failed password for svc_web from 198.51.100.45 port 49218 ssh2
+2026-07-26T18:14:27+00:00 node1 sshd[8429]: Accepted password for svc_web from 198.51.100.45 port 49225 ssh2
+2026-07-26T18:16:00+00:00 node1 sshd[1757]: Accepted publickey for admin from 10.50.0.100 port 37504 ssh2
+2026-07-26T18:16:00+00:00 node1 sshd[6456]: disconnected by user admin
+2026-07-26T18:16:02+00:00 node1 systemd-logind[402]: New session 13 of user admin.
+2026-07-26T18:18:00+00:00 node1 sshd[1914]: disconnected by user admin
+2026-07-26T18:21:00+00:00 node1 sshd[7207]: disconnected by user admin
+2026-07-26T18:26:00+00:00 node1 sshd[4530]: Accepted publickey for admin from 10.50.0.100 port 56111 ssh2
+2026-07-26T18:26:02+00:00 node1 systemd-logind[402]: New session 22 of user admin.
+2026-07-26T18:31:00+00:00 node1 sshd[2566]: disconnected by user admin
+2026-07-26T18:31:00+00:00 node1 sshd[3219]: Accepted publickey for admin from 10.50.0.100 port 53159 ssh2
+2026-07-26T18:31:02+00:00 node1 systemd-logind[402]: New session 20 of user admin.
+2026-07-26T18:35:00+00:00 node1 sshd[8853]: Accepted publickey for admin from 10.50.0.100 port 37394 ssh2
+2026-07-26T18:35:02+00:00 node1 systemd-logind[402]: New session 88 of user admin.
+2026-07-26T18:36:00+00:00 node1 sshd[8986]: disconnected by user admin
+2026-07-26T18:40:00+00:00 node1 sshd[7628]: disconnected by user admin
+2026-07-26T18:44:00+00:00 node1 sshd[4193]: Accepted publickey for admin from 10.50.0.100 port 52835 ssh2
+2026-07-26T18:44:02+00:00 node1 systemd-logind[402]: New session 58 of user admin.
+2026-07-26T18:49:00+00:00 node1 sshd[6930]: disconnected by user admin
+2026-07-26T18:53:00+00:00 node1 sshd[3171]: Accepted publickey for admin from 10.50.0.100 port 42054 ssh2
+2026-07-26T18:53:02+00:00 node1 systemd-logind[402]: New session 67 of user admin.
+2026-07-26T18:57:00+00:00 node1 sshd[3381]: Accepted publickey for admin from 10.50.0.100 port 57498 ssh2
+2026-07-26T18:57:02+00:00 node1 systemd-logind[402]: New session 49 of user admin.
+2026-07-26T18:58:00+00:00 node1 sshd[6949]: disconnected by user admin
+2026-07-26T19:02:00+00:00 node1 sshd[3990]: Accepted publickey for admin from 10.50.0.100 port 52260 ssh2
+2026-07-26T19:02:00+00:00 node1 sshd[5332]: disconnected by user admin
+2026-07-26T19:02:02+00:00 node1 systemd-logind[402]: New session 41 of user admin.
+2026-07-26T19:07:00+00:00 node1 sshd[3169]: disconnected by user admin
+2026-07-26T19:08:00+00:00 node1 sshd[8622]: Accepted publickey for admin from 10.50.0.100 port 57411 ssh2
+2026-07-26T19:08:02+00:00 node1 systemd-logind[402]: New session 56 of user admin.
+2026-07-26T19:13:00+00:00 node1 sshd[2659]: disconnected by user admin
+2026-07-26T19:17:00+00:00 node1 sshd[6095]: Accepted publickey for admin from 10.50.0.100 port 45875 ssh2
+2026-07-26T19:17:02+00:00 node1 systemd-logind[402]: New session 68 of user admin.
+2026-07-26T19:22:00+00:00 node1 sshd[6458]: disconnected by user admin
+2026-07-26T19:27:00+00:00 node1 sshd[5332]: Accepted publickey for admin from 10.50.0.100 port 57680 ssh2
+2026-07-26T19:27:02+00:00 node1 systemd-logind[402]: New session 87 of user admin.
+2026-07-26T19:32:00+00:00 node1 sshd[3620]: Accepted publickey for admin from 10.50.0.100 port 47163 ssh2
+2026-07-26T19:32:00+00:00 node1 sshd[8927]: disconnected by user admin
+2026-07-26T19:32:02+00:00 node1 systemd-logind[402]: New session 59 of user admin.
+2026-07-26T19:37:00+00:00 node1 sshd[3235]: disconnected by user admin
